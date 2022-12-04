@@ -1,9 +1,11 @@
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>My awesome app</title>
+    <title>Title</title>
 </head>
+<h1>Hello fella</h1>
 <body>
-    <jsp:forward page="/controller"/>
+
 </body>
 </html>
